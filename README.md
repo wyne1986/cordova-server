@@ -8,4 +8,4 @@ if you want use cordova on your server page, and call your app command with cord
 
 # support platform
 * android armv , android intel , ios , windows phone
-* your can add more platform if you now how to add plugin in it.
+* your can add more platform if you know how to add plugin in it.
