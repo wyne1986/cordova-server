@@ -16,14 +16,6 @@ module.exports = [
             "cordova.plugins.backgroundMode",
             "plugin.backgroundMode"
         ]
-    },
-    {
-        "id": "jpush-phonegap-plugin.JPushPlugin",
-        "file": "plugins/jpush-phonegap-plugin/www/JPushPlugin.js",
-        "pluginId": "jpush-phonegap-plugin",
-        "clobbers": [
-            "JPush"
-        ]
     }
 ];
 module.exports.metadata = 
@@ -31,9 +23,7 @@ module.exports.metadata =
 {
     "cordova-plugin-device": "1.1.6",
     "cordova-plugin-background-mode": "0.7.2",
-    "cordova-plugin-jcore": "1.1.8",
-    "cordova-plugin-whitelist": "1.3.2",
-    "jpush-phonegap-plugin": "3.2.4"
+    "cordova-plugin-whitelist": "1.3.2"
 };
 // BOTTOM OF METADATA
 });
